@@ -1,0 +1,28 @@
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+
+
+nav{
+    background-color: #fff9db;
+    display: flex;
+    justify-content: space-between;
+    padding:15px
+}
+
+
+nav .icon{
+    display: flex;
+}
+
+nav .nav-i{
+    display: flex;
+}
+
+nav .nav-i li{
+    list-style: none;
+}
